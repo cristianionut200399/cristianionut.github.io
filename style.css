@@ -6,14 +6,6 @@
     
 }
 
-@media (max-width: 550px) {
-  p { font-size: 16px; }
-}
-
-@media (min-width: 551px) {
-  p { font-size: 30px; }
-}
-
 body {
  background-color: #eeeeea;
 }
@@ -123,3 +115,10 @@ input:checked + label .description {
 .card[for="c4"] {
     background-image: url(img4.jpg);
 }
+
+@media (max-width: 550px) {
+  p { font-size: 16px; }
+}
+
+@media (min-width: 551px) {
+  p { font-size: 30px; }
