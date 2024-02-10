@@ -107,3 +107,12 @@ input:checked + label .description {
 .card[for="c4"] {
     background-image: url(img4.jpg);
 }
+
+@media only screen and (max-width: 640px){
+	h3 {
+		font-size: 20px !important;
+	}
+	p {
+		font-size: 10px !important;
+	{
+}
