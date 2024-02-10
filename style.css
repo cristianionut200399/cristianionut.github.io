@@ -8,11 +8,11 @@
 }
 
 @media (max-width: 550px) {
-  p { font-size: 16px; }
+  p { font-size: 14px; }
 }
 
 @media (min-width: 551px) {
-  p { font-size: 32px; }
+  p { font-size: 30px; }
 }
 body {
  background-color: #eeeeea;
